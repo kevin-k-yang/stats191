@@ -1,4 +1,4 @@
-,student label,game score,coast,game scheduled,percent training sessions attended,overall fitness score,# extra strategy sessions attended,hours of sleep the night before game,early bird/night owl,previous competitive sports,# meals on day prior to game,university year
+,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
 133,134,35.82,east coast,noon,0.09,0.19,2,7,night owl,football,3,sophomore
 133,134,5.57,east coast,morning,0.11,0.0,2,6,night owl,football,3,sophomore
 133,134,4.51,east coast,morning,0.26,0.0,1,5,night owl,football,3,sophomore

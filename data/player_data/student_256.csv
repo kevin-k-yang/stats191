@@ -1,4 +1,4 @@
-,student label,game score,coast,game scheduled,percent training sessions attended,overall fitness score,# extra strategy sessions attended,hours of sleep the night before game,early bird/night owl,previous competitive sports,# meals on day prior to game,university year
+,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
 255,256,51.21,east coast,evening,0.76,0.29,9,7,night owl,table tennis,3,junior
 255,256,37.28,east coast,noon,0.74,0.21,10,8,night owl,table tennis,3,junior
 255,256,52.77,east coast,noon,1.0,0.15,10,8,night owl,table tennis,3,junior

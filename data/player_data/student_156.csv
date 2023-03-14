@@ -1,4 +1,4 @@
-,student label,game score,coast,game scheduled,percent training sessions attended,overall fitness score,# extra strategy sessions attended,hours of sleep the night before game,early bird/night owl,previous competitive sports,# meals on day prior to game,university year
+,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
 155,156,43.68,east coast,evening,0.91,0.08,10,9,night owl,baseball,3,junior
 155,156,46.54,east coast,noon,1.0,0.0,10,10,night owl,baseball,3,junior
 155,156,43.73,east coast,noon,0.89,0.0,10,9,night owl,baseball,3,junior
