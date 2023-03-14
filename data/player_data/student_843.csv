@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 842,843,18.11,west coast,noon,0.11,0.67,3,1,night owl,frisbee,1,junior
 842,843,36.2,west coast,evening,0.4,0.77,1,1,night owl,frisbee,1,junior
 842,843,10.38,west coast,noon,0.27,0.81,0,0,night owl,frisbee,1,junior

@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 192,193,22.22,east coast,morning,0.58,0.47,7,5,night owl,football,2,senior
 192,193,23.25,east coast,noon,0.28,0.26,8,8,night owl,football,2,senior
 192,193,38.53,east coast,evening,0.0,0.11,8,7,night owl,football,2,senior

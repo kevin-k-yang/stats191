@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 278,279,31.1,east coast,evening,0.62,0.35,7,5,early bird,frisbee,4,sophomore
 278,279,27.71,east coast,noon,0.41,0.33,7,7,early bird,frisbee,4,sophomore
 278,279,45.68,east coast,noon,0.89,0.4,7,7,early bird,frisbee,4,sophomore

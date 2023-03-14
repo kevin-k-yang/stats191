@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 617,618,17.93,west coast,morning,0.66,0.45,3,2,night owl,curling,6,sophomore
 617,618,51.61,west coast,evening,0.87,0.52,3,3,night owl,curling,6,sophomore
 617,618,52.33,west coast,noon,1.0,0.73,3,4,night owl,curling,6,sophomore

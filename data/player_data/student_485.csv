@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 484,485,36.48,west coast,evening,0.43,0.01,9,6,night owl,gymnastics,4,sophomore
 484,485,7.19,west coast,noon,0.0,0.0,9,6,night owl,gymnastics,4,sophomore
 484,485,4.23,west coast,noon,0.09,0.05,7,5,night owl,gymnastics,4,sophomore

@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 898,899,56.04,west coast,evening,0.81,0.84,6,7,night owl,table tennis,4,junior
 898,899,61.4,west coast,noon,1.0,0.76,8,9,night owl,table tennis,4,junior
 898,899,43.42,west coast,noon,1.0,0.31,7,9,night owl,table tennis,4,junior

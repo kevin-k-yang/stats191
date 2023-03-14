@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 994,995,34.1,west coast,noon,0.53,0.6900000000000001,5,1,early bird,basketball,3,sophomore
 994,995,44.74,west coast,noon,1.0,0.63,5,1,early bird,basketball,3,sophomore
 994,995,33.05,west coast,noon,1.0,0.1,7,0,early bird,basketball,3,sophomore

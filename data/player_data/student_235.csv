@@ -1,4 +1,4 @@
-,student label,score,coast,game scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early bird/night owl,previous competitive sports,meals,university year
+,student label,score,coast,game_scheduled,percent_training_seshes,fitness_score,extra_strategy_sessions_attended,hours_of_sleep,early_late,previous_sport,meals,university_year
 234,235,74.85000000000001,east coast,noon,0.96,0.9,9,5,night owl,basketball,5,junior
 234,235,100.0,east coast,evening,0.99,1.0,10,6,night owl,basketball,5,junior
 234,235,84.17,east coast,evening,1.0,0.99,7,8,night owl,basketball,5,junior
