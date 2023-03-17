@@ -3,7 +3,7 @@ import sys
 
 import pandas as pd
 import statsmodels.formula.api as smf
-
+import seaborn as sns
 
 def read_pickle(file):
     with open(file, 'rb') as file:
@@ -21,9 +21,10 @@ def run_func(f, fp, *args, **kwargs):
     return result
 
 
-def run_ols(formula, data, f=sys.stdout):
+def run_ols(formula, data, f=sys.stdout, print_data=False):
     result = smf.ols(formula=formula, data=data).fit()
-    print(result.summary(), file=f)
+    if print_data:
+        print(result.summary(), file=f)
     return result
 
 
