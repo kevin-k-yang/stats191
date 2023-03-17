@@ -4,7 +4,7 @@ from scipy.stats import norm
 
 class MLE(): # pretty cool surprised it actually works, but always converged on 10.828673870054516
     def __init__(self, src, max_iters=100000, lr=5):
-        self.twoSigma = 100 # random initialization
+        self.twoSigma = 11 # random initialization
         self.df = pd.read_csv(src)
         self.iters = max_iters
         self.lr = lr
@@ -21,7 +21,6 @@ class MLE(): # pretty cool surprised it actually works, but always converged on 
     def step(self):
         p = self.log_likelihood()
         grad = np.sum(norm(loc = self.win1[:, 0], scale = self.twoSigma).pdf(0)) - np.sum(norm(loc = self.win2[:, 0], scale = self.twoSigma).pdf(0))
-        print("p", p, grad)
         grad /= p
         return grad
     
@@ -32,7 +31,7 @@ class MLE(): # pretty cool surprised it actually works, but always converged on 
 
     def calculate_MLE(self):
         for iter in range(self.iters):
-            print(iter, self.twoSigma)
+            # print(iter, self.twoSigma)
             grad = self.step()
             self.twoSigma -= grad * self.lr
 
