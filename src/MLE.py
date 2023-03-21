@@ -15,10 +15,11 @@ class MLE(): # pretty cool surprised it actually works, but always converged on 
         self.df = np.hstack((difference, wins))
 
         # split into team1 win and team2 win
-        self.win1 = self.df[self.df[:,1] == 0]
-        self.win2 = self.df[self.df[:,1] == 1]
+        self.win1 = self.df[self.df[:,1] == 1]
+        self.win2 = self.df[self.df[:,1] == 0]
     
     def step(self):
+        # during each step, find the log likelihood given self.theta, find the gradient, and update p w.r.t to gradient
         p = self.log_likelihood()
         grad = np.sum(norm(loc = self.win1[:, 0], scale = self.twoSigma).pdf(0)) - np.sum(norm(loc = self.win2[:, 0], scale = self.twoSigma).pdf(0))
         grad /= p
@@ -38,6 +39,3 @@ class MLE(): # pretty cool surprised it actually works, but always converged on 
             if grad < 0.00000000001:
                 break
         return self.twoSigma
-
-
-
